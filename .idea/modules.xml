@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../blooddb/.idea/blooddb.iml" filepath="$PROJECT_DIR$/../blooddb/.idea/blooddb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../calculator/.idea/calculator.iml" filepath="$PROJECT_DIR$/../calculator/.idea/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../db_works/.idea/db_works.iml" filepath="$PROJECT_DIR$/../db_works/.idea/db_works.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gitdemo/.idea/gitdemo.iml" filepath="$PROJECT_DIR$/../gitdemo/.idea/gitdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../library_streamlit/.idea/library_streamlit.iml" filepath="$PROJECT_DIR$/../library_streamlit/.idea/library_streamlit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/streamlit.iml" filepath="$PROJECT_DIR$/.idea/streamlit.iml" />
+    </modules>
+  </component>
+</project>
